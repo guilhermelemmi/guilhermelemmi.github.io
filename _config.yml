@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+title: Guilherme Lemmi
+description: Frontend developer at BairesDev and Javascript enthusiast
+avatar: https://avatars2.githubusercontent.com/u/571320?s=460&v=4
+
+defaults:
+    scope:
+    path: ""
+    values:
+    layout: "default"
+
+footer-links:
+  email: guilhermelemmi@gmail.com
+  github: guilhermelemmi
+  linkedin: guilherme-lemmi
+  stackoverflow: users/6605392/guilherme-lemmi
