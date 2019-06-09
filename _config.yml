@@ -1,25 +1,23 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+title:              lemmi.dev
+bio:                'Guilherme Lemmi is a fullstack programmer working mostly with Javascript'
+description:        "Notes on Javascript, Data Science, Blockchain and other interesting IT topics"
+locale:             pt_BR
+baseurl:            "" # the subpath of your site, e.g. /blog
+url:                "https://lemmi.dev" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+linkedin:           guilherme-lemmi
+github:             guilhermelemmi
+stackoverflow:      users/6605392/guilherme-lemmi?tab=profile
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           São Paulo, Brasil
+email:              guilherme@lemmi.dev # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
